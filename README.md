@@ -1,4 +1,4 @@
-# csv-to-json-converter
+# csv-json-converter
 
 ## Steps to use
 
@@ -11,6 +11,8 @@
 4. Change the name of the file in variable **json_file_path** as required. This will be the new file that will be created once the conversion is complete.
 
 5. Run the command `make run` to create your json files from your given csv files.
+
+6. Similar steps can be followed for json to csv conversion.
 
 
 #### Note: Incase of errors, please check the format of your given csv file.
