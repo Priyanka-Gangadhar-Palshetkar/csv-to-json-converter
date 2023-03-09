@@ -12,7 +12,7 @@
 
 5. Run the command `make run` to create your json files from your given csv files.
 
-6. Similar steps can be followed for json to csv conversion.
+6. Similar steps can be followed for json to csv conversion by changing the main function.
 
 
 #### Note: Incase of errors, please check the format of your given csv file.
