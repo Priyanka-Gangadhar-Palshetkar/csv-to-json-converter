@@ -13,4 +13,4 @@
 5. Run the command `make run` to create your json files from your given csv files.
 
 
-## Incase of errors, please check the format of your given csv file.
+#### Note: Incase of errors, please check the format of your given csv file.
