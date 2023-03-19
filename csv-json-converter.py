@@ -23,10 +23,10 @@ def json_to_csv(json_file_path, csv_file_path):
     jsonf.to_csv(csv_file_path, encoding='utf-8', index=False)
 
 def main():          
-    csv_file_path = r'sample.csv'
-    json_file_path = r'sample.json'
+    csv_file_path = r'ie.csv'
+    json_file_path = r'ie.json'
     csv_to_json(csv_file_path, json_file_path)
-    json_to_csv(json_file_path, csv_file_path)
+    # json_to_csv(json_file_path, csv_file_path)
 
 
 if __name__ == "__main__":
